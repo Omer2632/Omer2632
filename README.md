@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Omer Alptekin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+</br>
 <img align="right" alt="coding" width="400" height="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
-- 📫 How to reach me **o.alptekin26@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny :)**
 
