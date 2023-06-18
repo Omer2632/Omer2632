@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 </br>
-<img align="right" alt="coding" width="400" height="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+<img align="right" alt="coding" width="300" height="170" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
 ## 🙇‍♂️👋🏻 Hi there, I am Omer
 <font color="pink"> 👨‍💻I'm a Frontend developer.👨‍💻 </font>
