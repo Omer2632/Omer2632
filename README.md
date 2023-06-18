@@ -1,13 +1,22 @@
-<img alt="coding" width="250" height="120" src="https://www.iakademi.com/wp-content/uploads/2021/07/front-end-developer-neler-bilmelidir.jpg">
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+OMER;I'm+a+Frontend+Developer...;)
+</hr>
 
-<h1 align="center">Hi 👋, I'm Omer Alptekin</h1>
+<div align="center">
+<img alt="coding" width="250" height="120" src="https://www.iakademi.com/wp-content/uploads/2021/07/front-end-developer-neler-bilmelidir.jpg">
+</div>
+
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 </br>
 <img align="right" alt="coding" width="400" height="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
-- ⚡ Fun fact **I think I'm Funny :)**
 
-<h3 align="left">Connect with me:</h3>
+#### 📬 Connect with me:
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-alptekin-378235270/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:o.alptekin26@gmail.com)
+
+
+
 <p align="left">
 <a href="https://linkedin.com/in/ömer alptekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer alptekin" height="30" width="40" /></a>
 </p>
